@@ -5,8 +5,8 @@ Jandry Francisco Loor Sánchez
 Desarrollar un sistema informático en Python que permita a la computadora adivinar un número pensado por el usuario mediante el algoritmo de búsqueda binaria, aplicando los conocimientos adquiridos durante la asignatura de Lógica de Programación, tales como funciones, estructuras condicionales, estructuras repetitivas, estructuras de datos, manejo de excepciones y organización del código.
 # Descripción de las funcionalidades
 El sistema implementa las siguientes funcionalidades:
-•	Menú principal para acceder a las diferentes opciones del programa.
-•	Inicio de una nueva partida del juego.
+- Menú principal para acceder a las diferentes opciones del programa.
+- Inicio de una nueva partida del juego.
 •	Algoritmo de búsqueda binaria para adivinar el número pensado por el usuario.
 •	Validación de respuestas ingresadas por el usuario (“mayor”, “menor” o “correcto”).
 •	Límite máximo de cinco intentos para adivinar el número.
